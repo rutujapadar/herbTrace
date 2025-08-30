@@ -247,6 +247,6 @@ This project is proprietary software developed for the Ayurvedic herb traceabili
 
 *Ensuring authentic herbs from the Himalayas to your home*
 
-[Website](https://herbtrace.com) • [Support](mailto:support@herbtrace.com) • [Documentation](https://docs.herbtrace.com)
+
 
 </div>
